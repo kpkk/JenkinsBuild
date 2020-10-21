@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26361" started-at="2020-10-21T16:10:34 IST" finished-at="2020-10-21T16:11:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26361" started-at="2020-10-21T16:10:34 IST" finished-at="2020-10-21T16:11:00 IST">
+      <class name="com.org.SeleniumScript.App">
+        <test-method status="PASS" signature="sampleScript()[pri:0, instance:com.org.SeleniumScript.App@1f13d6e]" name="sampleScript" duration-ms="26321" started-at="2020-10-21T16:10:34 IST" finished-at="2020-10-21T16:11:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleScript -->
+      </class> <!-- com.org.SeleniumScript.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
